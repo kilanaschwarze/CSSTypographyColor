@@ -6,16 +6,13 @@ body {
 	font-family: 'Raleway', sans-serif;
 	line-height: 1.4;
 	color: black;
-	background-color: white
+	background-color: white;
 }
-p {
-	border-color: e44a93;
-	border-width: 4px;
-}
+
 h1 {
 	font-family: 'Handlee', cursive;
 	font-size: 40px;
-	color: #724ae4
+	color: #724ae4;
 }
 a:link {
 	color: #4f72fb;
